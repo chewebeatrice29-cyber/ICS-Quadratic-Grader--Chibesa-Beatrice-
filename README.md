@@ -1,5 +1,11 @@
 # ICS-Quadratic-Grader--Chibesa-Beatrice-
 Enters Results and Solves quadratic equations 
+Name: Beatrice Chibesa
+Student Number: 202404114
+Course: lCT251 
+Lecturer Name: Mr Z Kaluba
+
+
 Created by: Chibesa Beatrice
 
 🌈 Description
